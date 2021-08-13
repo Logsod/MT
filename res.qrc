@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/game_1.qml</file>
+        <file>qml/game_2.qml</file>
+        <file>qml/game_3.qml</file>
+        <file>qml/mainLoader.qml</file>
+        <file>qml/mainMenu.qml</file>
+        <file>images/back.png</file>
+        <file>images/brain.png</file>
+        <file>images/cancel.png</file>
+        <file>images/cancel_white.png</file>
+        <file>images/check.png</file>
+        <file>images/check_white.png</file>
+        <file>images/lock.png</file>
+        <file>images/question.png</file>
+        <file>smiles/0.png</file>
+        <file>smiles/1.png</file>
+        <file>smiles/10.png</file>
+        <file>smiles/11.png</file>
+        <file>smiles/12.png</file>
+        <file>smiles/13.png</file>
+        <file>smiles/14.png</file>
+        <file>smiles/15.png</file>
+        <file>smiles/16.png</file>
+        <file>smiles/17.png</file>
+        <file>smiles/2.png</file>
+        <file>smiles/3.png</file>
+        <file>smiles/4.png</file>
+        <file>smiles/5.png</file>
+        <file>smiles/6.png</file>
+        <file>smiles/7.png</file>
+        <file>smiles/8.png</file>
+        <file>smiles/9.png</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
